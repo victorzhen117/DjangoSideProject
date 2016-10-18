@@ -7,3 +7,6 @@ stay tuned xd
 i put this project on pause, trying to actually learn django first before going deep into this. will resume this project in ~1 month ETA.
 
 in the mean time i created a new git repo for the real django tutorial
+
+EDIT:
+resuming this project in about 3 weeks or so because of midterm week(s)!
