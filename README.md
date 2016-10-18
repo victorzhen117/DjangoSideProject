@@ -9,4 +9,4 @@ i put this project on pause, trying to actually learn django first before going 
 in the mean time i created a new git repo for the real django tutorial
 
 EDIT:
-resuming this project in about 3 weeks or so because of midterm week(s)!
+resuming this project in about 3 weeks or so because of midterm week(s)! (10/17/16)
